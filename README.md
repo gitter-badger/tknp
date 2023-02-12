@@ -7,7 +7,7 @@
 
 # TKNP App
 
-[![License: GPL-3.0](https://img.shields.io/badge/license-GPL3.0-blue.svg)](LICENSE.md)
+[![License: GPL-3.0](https://img.shields.io/badge/license-GPL3.0-blue.svg)](LICENSE.md) [![Join the chat at https://gitter.im/tknp-/community](https://badges.gitter.im/tknp-/community.svg)](https://gitter.im/tknp-/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The TKNP app provides convenient access to important information and personalized services in the palm of your hand. It was designed to run smoothly & easily to facilitate
 e-learning, which has become an essential system in education. This app comes with the most services that
